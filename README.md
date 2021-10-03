@@ -1,4 +1,4 @@
-# Responsive Clock Ui
+# Clockit Ui
 ### Responsive Clock Ui
 
 - responsive clock UI design using HTML, CSS, and JAVASCRIPT.
